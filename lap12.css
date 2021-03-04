@@ -170,11 +170,11 @@ header{
         font-size: larger;
         text-decoration: none;
         padding: 8px 5px 8px 30px;
-        background : url('unnamed.png') no-repeat 10px center ;
+        background : url('img/unnamed.png') no-repeat 10px center ;
        
     }
     .vmenu a:hover{
-        background: url('tick-flat-icon.png') no-repeat 10px center;
+        background: url('img/tick-flat-icon.png') no-repeat 10px center;
         border-bottom: 1px dotted white;
         background-color: orangered;
         color:white;
